@@ -1,0 +1,76 @@
+body {
+  color : white;
+  text-align: center;
+  background-image: url(images/space.jpg);
+  background-repeat: no-repeat;
+}
+
+h1 {
+  font-size: 565%;
+}
+
+h2 {
+  text-align: center;
+  font-size: 200%;
+  padding: 3%;
+  margin: 2% auto;
+  font-family: 'Fjalla One', sans-serif;
+}
+
+a {
+  text-decoration: none;
+  font-size: 27px;
+}
+
+
+.container-fluid {
+  padding: 7% 15%;
+}
+
+.intro {
+  padding: 10px;
+  margin: 5% auto;
+  background-color: #092532;
+  color: white;
+}
+
+.myimg {
+  width: 50%;
+  margin: 10% auto;
+  padding-top: 50px;
+}
+
+.top-container {
+  font-family: 'Nova Mono', monospace;
+
+}
+
+
+.me{
+  padding: 60px 20px;
+  font-family: 'Fjalla One', sans-serif;
+  font-size: 25px;
+  font-weight: bold;
+  line-height: 35px;
+  margin: 15px auto;
+}
+
+.carousel-inner {
+  padding: 15%;
+}
+
+.skill-column {
+  font-family: 'Fjalla One', sans-serif;
+}
+
+.skill_img{
+  width: 110px;
+}
+
+.contact {
+  font-family: 'Fjalla One', sans-serif;
+}
+
+.bottom-container {
+  padding: 5px 5px;
+}
